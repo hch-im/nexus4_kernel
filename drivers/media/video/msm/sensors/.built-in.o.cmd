@@ -1,0 +1,1 @@
+cmd_drivers/media/video/msm/sensors/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o drivers/media/video/msm/sensors/built-in.o drivers/media/video/msm/sensors/msm_sensor.o drivers/media/video/msm/sensors/imx111.o drivers/media/video/msm/sensors/imx119_v4l2.o 

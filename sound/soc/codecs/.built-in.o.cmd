@@ -1,0 +1,1 @@
+cmd_sound/soc/codecs/built-in.o :=  arm-linux-androideabi-ld -EL    -r -o sound/soc/codecs/built-in.o sound/soc/codecs/snd-soc-wcd9304.o sound/soc/codecs/snd-soc-wcd9310.o sound/soc/codecs/snd-soc-msm-stub.o sound/soc/codecs/tpa2028d.o 
